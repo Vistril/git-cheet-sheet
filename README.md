@@ -2,7 +2,7 @@ Command List
 
 Anything surrounded by `[brackets]` should be replaced with your information.
 
-`git pull`: downloads bookmark history and incorporates changes (you need to do this if you make any changes not using CodeAnywhere)
+`git pull`: downloads bookmark history and incorporates changes (you need to do this if you make any changes not using your normal environment)
 
 `git branch -a`: list all branches (local and remote)
 
