@@ -1,4 +1,4 @@
-##Command List
+#Command List
 
 Anything surrounded by `[brackets]` should be replaced with your information.
 
@@ -19,7 +19,7 @@ Anything surrounded by `[brackets]` should be replaced with your information.
 `git push`: uploads all local branch commits to GitHub
 
  
-##Workflow
+#Workflow
 
 `git checkout -b [branch-name]` create a branch to work on the current assignment
 
