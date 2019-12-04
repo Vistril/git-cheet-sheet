@@ -21,9 +21,11 @@ Anything surrounded by `[brackets]` should be replaced with your information.
  
 Workflow
 
-`git checkout -b [branch-name]` create a branch to work on the current assignment
+`git init` or `git clone [github repo link]` to initialise the environment depending on your progress
 
-Do the work
+`git checkout -b [branch-name]` create a branch to work on the current assignment (if you don't want to make changes on the MASTER branch)
+
+Once edited your file;
 
 `git status` changed files will appear in red
 
